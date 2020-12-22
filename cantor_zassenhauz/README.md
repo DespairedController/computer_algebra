@@ -2,6 +2,8 @@
 Требуемые библиотеки: [Givaro](https://github.com/linbox-team/givaro/)
 
 Запуск тестов: 
-```cmake CMakeLists.txt
+```
+cmake CMakeLists.txt
 make
-./cantor_zassenhauz```
+./cantor_zassenhauz
+```
